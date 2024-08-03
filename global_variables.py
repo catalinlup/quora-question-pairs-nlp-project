@@ -1,0 +1,5 @@
+TRAINING_SET_PATH='./data/train.csv'
+TEST_SET_PATH='./data/test.csv'
+BAG_OF_WORDS_PICKE_FILE='bag_of_words.pickle'
+TRAIN_FEATURES_PICKLE_FILE='train_features.pickle'
+VALIDATION_FEATURES_PICKLE_FILE='validation_features.pickle'

@@ -1,0 +1,6 @@
+data/
+__pycache__/
+word2vec
+features/
+saved/
+predictions/
